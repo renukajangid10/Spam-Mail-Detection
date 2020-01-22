@@ -1,0 +1,48 @@
+body{
+	background-color:#e85c6b;
+	margin:none;
+	
+}
+.header{
+	background-color:white;
+	border-style:solid;
+	color:#4d0000;
+}
+.he1{
+	width:30;
+	height:30;
+}
+
+h1{
+	color:#8000ff;
+	font-family:verdana;
+	font-size:300%;
+	border:3px;
+	border-color:#8000ff;
+	
+}
+.b1{
+	border-style:solid;
+	border-color:black;
+	position: relative;
+	/* height:500px; */
+}
+.b1_1{
+	background-color:#ffcccc;
+	height:200px;
+	width:400px;
+	border-style:solid;
+	border-color:black;
+	border-width:30;
+	position: absolute;
+  bottom: 60%;
+  right: 35%;
+  display: block;
+  
+}
+.inp1{
+	width:100%;
+}
+
+
+/* Bottom right text */
